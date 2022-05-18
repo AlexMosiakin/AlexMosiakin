@@ -40,6 +40,9 @@
 - PokeLand in progress...
 [Code](https://github.com/AlexMosiakin/poke-land)
 
+- Chess in progress...
+[Code](https://github.com/AlexMosiakin/chess)
+
 
 
 
