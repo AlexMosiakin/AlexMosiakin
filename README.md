@@ -17,7 +17,7 @@
 ### My pets:
  
   - News list app with "Hacker News API" 
- [Code](https://github.com/AlexMosiakin/hacker-news) | [Demo](https://alexmosiakin.github.io/hacker-news/)
+ [Code](https://github.com/AlexMosiakin/hacker-news) | <a href="https://alexmosiakin.github.io/hacker-news/" target="_blank">Demo</a>
 
  - Music player
 [Code](https://github.com/AlexMosiakin/music-player) | [Demo](https://alexmosiakin.github.io/music-player/) 
