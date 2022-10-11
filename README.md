@@ -24,28 +24,5 @@
  - Music player
 [Code](https://github.com/AlexMosiakin/music-player) | [Demo](https://alexmosiakin.github.io/music-player/) 
 
- - Galaxy
-[Code](https://github.com/AlexMosiakin/galaxy) | [Demo](https://alexmosiakin.github.io/galaxy/) 
-
-- Color pallete
-[Code](https://github.com/AlexMosiakin/ColorPalette) | [Demo](https://alexmosiakin.github.io/ColorPalette/)
-
 - My site
 [Code](https://github.com/AlexMosiakin/mySite) | [Demo](https://alexmosiakin.github.io/mySite/)
-
-- Scary house
-[Code](https://github.com/AlexMosiakin/hounted-house) | [Demo](https://alexmosiakin.github.io/hounted-house/)
-
-- Social network in progress...
-[Code](https://github.com/AlexMosiakin/social)
-
-- PokeLand in progress...
-[Code](https://github.com/AlexMosiakin/poke-land)
-
-- Chess in progress...
-[Code](https://github.com/AlexMosiakin/chess)
-
-
-
-
-
