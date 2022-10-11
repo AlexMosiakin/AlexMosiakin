@@ -15,6 +15,8 @@
 
 
 ### My pets:
+  - Weather app with "OpenWeatherMap API" 
+ [Code](https://github.com/AlexMosiakin/weather-app) | <a href="https://alexmosiakin.github.io/weather-app/" target="_blank">Demo</a>
  
   - News list app with "Hacker News API" 
  [Code](https://github.com/AlexMosiakin/hacker-news) | <a href="https://alexmosiakin.github.io/hacker-news/" target="_blank">Demo</a>
