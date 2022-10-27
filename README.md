@@ -26,3 +26,6 @@
 
 - My site
 [Code](https://github.com/AlexMosiakin/mySite) | [Demo](https://alexmosiakin.github.io/mySite/)
+
+- Visualization of Dijkstra's algorithm
+[Code](https://github.com/AlexMosiakin/dijkstra) | [Demo](https://alexmosiakin.github.io/dijkstra/)
