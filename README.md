@@ -18,14 +18,17 @@
   - Weather app with "OpenWeatherMap API" 
  [Code](https://github.com/AlexMosiakin/weather-app) | <a href="https://alexmosiakin.github.io/weather-app/" target="_blank">Demo</a>
  
-  - News list app with "Hacker News API" 
- [Code](https://github.com/AlexMosiakin/hacker-news) | <a href="https://alexmosiakin.github.io/hacker-news/" target="_blank">Demo</a>
+ - My site
+[Code](https://github.com/AlexMosiakin/mySite) | [Demo](https://alexmosiakin.github.io/mySite/)
+
+ - 3D Room
+[Code]([https://github.com/AlexMosiakin/mySite](https://github.com/AlexMosiakin/room)) | [Demo](https://alexmosiakin.github.io/mySite/)
 
  - Music player
-[Code](https://github.com/AlexMosiakin/music-player) | [Demo](https://alexmosiakin.github.io/music-player/) 
-
-- My site
-[Code](https://github.com/AlexMosiakin/mySite) | [Demo](https://alexmosiakin.github.io/mySite/)
+[Code](https://github.com/AlexMosiakin/music-player) | [Demo](https://room-alexmosiakin.vercel.app/) 
 
 - Visualization of Dijkstra's algorithm
 [Code](https://github.com/AlexMosiakin/dijkstra) | [Demo](https://alexmosiakin.github.io/dijkstra/)
+
+  - News list app with "Hacker News API" 
+ [Code](https://github.com/AlexMosiakin/hacker-news) | <a href="https://alexmosiakin.github.io/hacker-news/" target="_blank">Demo</a>
