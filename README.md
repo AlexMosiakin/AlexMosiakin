@@ -22,10 +22,10 @@
 [Code](https://github.com/AlexMosiakin/mySite) | [Demo](https://alexmosiakin.github.io/mySite/)
 
  - 3D Room
-[Code](https://github.com/AlexMosiakin/room) | [Demo](https://alexmosiakin.github.io/mySite/)
+[Code](https://github.com/AlexMosiakin/room) | [Demo](https://room-alexmosiakin.vercel.app/)
 
  - Music player
-[Code](https://github.com/AlexMosiakin/music-player) | [Demo](https://room-alexmosiakin.vercel.app/) 
+[Code](https://github.com/AlexMosiakin/music-player) | [Demo](https://alexmosiakin.github.io/music-player/) 
 
 - Visualization of Dijkstra's algorithm
 [Code](https://github.com/AlexMosiakin/dijkstra) | [Demo](https://alexmosiakin.github.io/dijkstra/)
