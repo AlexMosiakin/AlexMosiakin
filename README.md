@@ -22,7 +22,7 @@
 [Code](https://github.com/AlexMosiakin/mySite) | [Demo](https://alexmosiakin.github.io/mySite/)
 
  - 3D Room
-[Code]([https://github.com/AlexMosiakin/mySite](https://github.com/AlexMosiakin/room)) | [Demo](https://alexmosiakin.github.io/mySite/)
+[Code](https://github.com/AlexMosiakin/room) | [Demo](https://alexmosiakin.github.io/mySite/)
 
  - Music player
 [Code](https://github.com/AlexMosiakin/music-player) | [Demo](https://room-alexmosiakin.vercel.app/) 
