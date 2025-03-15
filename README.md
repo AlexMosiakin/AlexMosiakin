@@ -16,22 +16,25 @@
 ### My pets:
 
 - My site
-[Code](https://github.com/AlexMosiakin/mySite) | [Demo](https://alexmosiakin.github.io/mySite/)
+[Code](https://github.com/AlexMosiakin/portfolio-2024) |  <a href="https://www.alexmoss.tech/" target="_blank">Demo</a>
+
+- My old site
+[Code](https://github.com/AlexMosiakin/mySite) | <a href="https://alexmosiakin.github.io/mySite/" target="_blank">Demo</a>
+
+- My 3D Room
+[Code](https://github.com/AlexMosiakin/room) | <a href="https://room-alexmosiakin.vercel.app/" target="_blank">Demo</a>
+
+- Music player
+[Code](https://github.com/AlexMosiakin/music-player) | <a href="https://alexmosiakin.github.io/music-player/" target="_blank">Demo</a>
 
 - Weather app with "OpenWeatherMap API" 
 [Code](https://github.com/AlexMosiakin/weather-app) | <a href="https://alexmosiakin.github.io/weather-app/" target="_blank">Demo</a>
  
-- 3D Room
-[Code](https://github.com/AlexMosiakin/room) | [Demo](https://room-alexmosiakin.vercel.app/)
-
 - PokeLand with "PokeApi" 
 [Code](https://github.com/AlexMosiakin/poke-land) | <a href="https://alexmosiakin.github.io/poke-land/" target="_blank">Demo</a>
 
-- Music player
-[Code](https://github.com/AlexMosiakin/music-player) | [Demo](https://alexmosiakin.github.io/music-player/) 
-
 - Visualization of Dijkstra's algorithm
-[Code](https://github.com/AlexMosiakin/dijkstra) | [Demo](https://alexmosiakin.github.io/dijkstra/)
+[Code](https://github.com/AlexMosiakin/dijkstra) | <a href="https://alexmosiakin.github.io/dijkstra/" target="_blank">Demo</a>
 
 - News list app with "Hacker News API" 
 [Code](https://github.com/AlexMosiakin/hacker-news) | <a href="https://alexmosiakin.github.io/hacker-news/" target="_blank">Demo</a>
